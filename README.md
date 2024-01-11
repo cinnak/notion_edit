@@ -1,8 +1,8 @@
 # story of this repo
-This Python script uses the Notion API to manage and create blocks in your Notion pages.
-I wrote this script because I wanted to move my reading records from 2023 over to Notion. Can you believe it? I read a whopping 68 books in 2023! 
+- This Python script uses the Notion API to manage and create blocks in your Notion pages.
+- I wrote this script because I wanted to move my reading records from 2023 over to Notion. Can you believe it? I read a whopping 68 books in 2023! 
 Anyhow, when I imported my excel file, the "Comments" column, usually this long stretch of words ends up being a property in the database. Kinda rough on the eyes, you know? So, I decided to clean things up a bit by moving the "Comments" property to a page block. Things are looking good now!
-However, the story doesn't end here. The next step in my plan is to extract all the images from the excel spreadsheet and transfer them to the Notion database. The interesting part of this task is that these images will serve as the page covers. It's a pretty straightforward, yet creative approach.
+- However, the story doesn't end here. The next step in my plan is to extract all the images from the excel spreadsheet and transfer them to the Notion database. The interesting part of this task is that these images will serve as the page covers. It's a pretty straightforward, yet creative approach.
 # Overview
 The script has two main functions:
 - get_pages(): It retrieves pages from a Notion database; you can specify the number of pages to return or get all pages by default.
