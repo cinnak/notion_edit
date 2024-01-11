@@ -1,4 +1,4 @@
-# story of this repo
+# Story of this repo
 - This Python script uses the Notion API to manage and create blocks in your Notion pages.
 - I wrote this script because I wanted to move my reading records from 2023 over to Notion. Can you believe it? I read a whopping 68 books in 2023! 
 Anyhow, when I imported my excel file, the "Comments" column, usually this long stretch of words ends up being a property in the database. Kinda rough on the eyes, you know? So, I decided to clean things up a bit by moving the "Comments" property to a page block. Things are looking good now!
